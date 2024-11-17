@@ -20,3 +20,6 @@
    - [Summary](./information-processing-summary.md)
    - [Unit End Questions](./information-processing-unit-end-questions.md)
    - [References and Reading materials](./information-processing-references.md)
+ - [Neuropsychological Basis of Learning and Memory](./neuropsychological-basis-of-learning-and-memory.md)
+   - [Introduction](./neuropsychology-intro.md)
+   - [Memory and Brain](./memory-and-brain.md)
