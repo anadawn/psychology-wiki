@@ -19,7 +19,7 @@ For example, **does the amygdala influence memory deficits in amnesics?**
 
 > *Data from amnesics indicate that the `amygdala is not part of the brain’s episodic memory system`, although it has a role in emotion
 > and emotional memories. To verify this, surgical lesions were created in the medial temporal lobe and amygdala of monkeys, to cause memory
-> impairment.
+> impairment.*
 
 In classic work by `Mortimer Mishkin (1978)` at the `National Institute of Mental Health (NIMH)`, the hippocampus or the amygdala,
 or both the hippocampus and the amygdala, of monkeys were removed surgically. He found that **the amount of impairment, as measured on tests,
@@ -53,7 +53,7 @@ surrounding para- hippocampal or perirhinal cortex?
 > *The parahippocampal and perirhinal areas receive information from the `visual`, `auditor`, and `somatosensory association cortex` and send
 > these inputs to the `hippocampus`, and from there to other `cortical regions`. The hippocampus cannot function properly if these vital
 > connections are damaged. But more than this, we now also know that these regions are involved in much processing themselves, and hence
-> `lesions restricted to the hippocampus do not produce as severe a form of amnesia as do lesions that include surrounding cortex`.
+> `lesions restricted to the hippocampus do not produce as severe a form of amnesia as do lesions that include surrounding cortex`.*
 
 In summary, the data from animals are highly consistent with evidence from amnesic patients such as R.B. and H.M. that implicates the
 **hippocampal system in the medial temporal lobe and the associated cortex as critical for forming long-term memories**. **Lesions that damage
