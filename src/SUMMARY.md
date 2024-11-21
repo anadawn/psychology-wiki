@@ -35,4 +35,6 @@
    - [Introduction](./information-processing/unit-4/models-of-information-processing-intro.md)
    - [Waugh and Norman’s Model of Primary And Secondary Memory](./information-processing/unit-4/Waugh-and-normans-model-of-primary-and-secondary-memory.md)
    - [Atkinson and Shiffrin’s the Stage Model](./information-processing/unit-4/atkinson-and-shiffrin’s-the-stage-model.md)
+   - [Level of Recall](./information-processing/unit-4/level-of-recall.md)
+   - [Levels of Processing: Craik and Lockhart](./information-processing/unit-4/levels-of-processing-craik-and-lockhart.md)
 
