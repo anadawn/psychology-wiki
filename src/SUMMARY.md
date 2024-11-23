@@ -37,4 +37,9 @@
    - [Atkinson and Shiffrin’s the Stage Model](./information-processing/unit-4/atkinson-and-shiffrin’s-the-stage-model.md)
    - [Level of Recall](./information-processing/unit-4/level-of-recall.md)
    - [Levels of Processing: Craik and Lockhart](./information-processing/unit-4/levels-of-processing-craik-and-lockhart.md)
+   - [Self Reference Effect](./information-processing/unit-4/self-reference-effect.md)
+   - [A Connectionist (Parallel Distributed Processing) Model of Memory: Rumelhart and Mcclelland](./information-processing/unit-4/model-of-memory.md)
+   - [Summary](./information-processing/unit-4/summary.md)
+   - [Unit End Questions](./information-processing/unit-4/unit-end-questions.md)
+   - [References and Reading Materials](./information-processing/unit-4/references-and-reading-materials.md)
 
