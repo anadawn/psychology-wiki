@@ -49,3 +49,4 @@
   - [Concept of Development](./developmental-psychology/unit1/concept-of-development.md)
   - [Growth and Development](./developmental-psychology/unit1/growth-and-development.md)
   - [Life Span Perspectives](./developmental-psychology/unit1/life-span-perspectives.md)
+  - [Characteristics of Life Span Development](./developmental-psychology/unit1/characteristics-of-life-span-development.md)
