@@ -180,4 +180,6 @@ All the domains operate together and are affected by each other `(Boyd & Bee, 20
 > 1. Individuals pass only one stage through out the life.
 > 1. As the child grows ups adjustment to self, others and environment are important tasks which become increasingly complex.
 > 1. Psychological domain focuses on adjustment of the individual to the environment.
+>
+> #### [Answers](./answers-to-self-assessment-questions.md#true-or-false)
 
