@@ -60,3 +60,5 @@
   - [Prenatal Development (Genetics, Enviornment Influence and Hazards of Development)](./developmental-psychology/unit2/structure.md)
       - [Introduction](./developmental-psychology/unit2/introduction.md)
       - [Beginnings of the Life](./developmental-psychology/unit2/beginnings-of-the-life.md)
+      - [Characteristics of Prenatal Period](./developmental-psychology/unit2/characteristics-of-prenatal-period.md)
+      - [Periods of Prenatal Development](./developmental-psychology/unit2/periods-of-prenatal-development.md)
