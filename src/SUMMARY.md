@@ -62,3 +62,8 @@
       - [Beginnings of the Life](./developmental-psychology/unit2/beginnings-of-the-life.md)
       - [Characteristics of Prenatal Period](./developmental-psychology/unit2/characteristics-of-prenatal-period.md)
       - [Periods of Prenatal Development](./developmental-psychology/unit2/periods-of-prenatal-development.md)
+      - [Environmental Influences](./developmental-psychology/unit2/environmental-influences.md)
+      - [Summary](./developmental-psychology/unit2/summary.md)
+      - [Unit End Questions](./developmental-psychology/unit2/unit-end-questions.md)
+      - [References and Reading Materials](./developmental-psychology/unit2/references.md)
+      - [Answers To Self Assessment Questions](./developmental-psychology/unit2/answers-to-self-assessment-questions.md)

@@ -107,6 +107,6 @@ around as its shoulders.  The mother supplies the fetus with the antibodies it n
 > 1. Prenatal period is nine calendar months. (    )
 > 1. Prenatal period is divided into two stages. (    )
 >
-> [Answers]()
+> [Answers](./answers-to-self-assessment-questions.md#true-or-false)
 
 
