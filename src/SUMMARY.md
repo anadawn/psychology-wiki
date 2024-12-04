@@ -75,3 +75,4 @@
       - [Hazards During Infancy Period](./developmental-psychology/unit3/hazards-during-infancy-period.md)
       - [Physical Development in Infancy](./developmental-psychology/unit3/physical-development-in-infancy.md)
       - [Psychosocial Develoment in Infancy](./developmental-psychology/unit3/psychosocial-development-in-infancy.md)
+      - [Cognitive Development in Infancy](./developmental-psychology/unit3/cognitive-development-in-infancy.md)
