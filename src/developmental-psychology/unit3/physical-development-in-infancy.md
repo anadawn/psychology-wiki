@@ -42,3 +42,5 @@ emergence of puberty by several years.
 > 1. *A caesarean birth is likely to result in ——————.*
 > 1. *If the fetus is ———— at the time of birth, the use of any instruments becomes hazards to the infant.*
 > 1. *Maturation refers to a ——————— sequence of biological events in the central nervous system.*
+>
+> [Answers](./answers-to-self-assessment-questions.md#fill-in-the-blanks)

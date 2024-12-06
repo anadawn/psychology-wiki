@@ -76,3 +76,13 @@
       - [Physical Development in Infancy](./developmental-psychology/unit3/physical-development-in-infancy.md)
       - [Psychosocial Develoment in Infancy](./developmental-psychology/unit3/psychosocial-development-in-infancy.md)
       - [Cognitive Development in Infancy](./developmental-psychology/unit3/cognitive-development-in-infancy.md)
+      - [Linguistic Development in Infancy](./developmental-psychology/unit3/linguistic-development-in-infancy.md)
+      - [Summary](./developmental-psychology/unit3/summary.md)
+      - [Unit End Questions](./developmental-psychology/unit3/unit-end-questions.md)
+      - [References and Reading Materials](./developmental-psychology/unit3/references-and-reading-materials.md)
+      - [Answers To Self Assessment Questions](./developmental-psychology/unit3/answers-to-self-assessment-questions.md)
+  - [Early Childhood (Physical, Psychosocial, Cognitive and Linguistic)](./developmental-psychology/unit4/structure.md)
+      - [Introduction](./developmental-psychology/unit4/introduction.md)
+      - [Meaning of Early Chilhood](./developmental-psychology/unit4/meaning-of-early-chilhood.md)
+      - [Characteristics of Early Childhood](./developmental-psychology/unit4/characteristics-of-early-childhood.md)
+
