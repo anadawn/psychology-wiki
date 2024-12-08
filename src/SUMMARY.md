@@ -85,4 +85,7 @@
       - [Introduction](./developmental-psychology/unit4/introduction.md)
       - [Meaning of Early Chilhood](./developmental-psychology/unit4/meaning-of-early-chilhood.md)
       - [Characteristics of Early Childhood](./developmental-psychology/unit4/characteristics-of-early-childhood.md)
+      - [Hazards During Early Chilhood](./developmental-psychology/unit4/hazards-during-early-chilhood.md)
+      - [Growth and Development in Early Childhood](./developmental-psychology/unit4/growth-and-development-in-early-childhood.md)
+      - [Physical Development in Early Childhood](./developmental-psychology/unit4/physical-development-in-early-childhood.md)
 
